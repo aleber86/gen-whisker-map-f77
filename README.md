@@ -1,1 +1,3 @@
-# gen-whisker-map-f77
+# Implementation of generalized whisker map
+
+
